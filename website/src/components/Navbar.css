@@ -1,0 +1,48 @@
+.navbar {
+    background-color: #ffffff;
+    position: relative;
+}
+.navbar-brand {
+    font-weight: bold;
+}
+.navbar-nav .nav-link {
+    margin-right: 1rem;
+}
+.navbar .form-control {
+    max-width: 300px;
+}
+.icon {
+    margin-left: 1rem;
+}
+
+#in1{
+    width: 700px;
+    margin-right: 300px;
+}
+#line{
+    /* padding-right: 200px; */
+    position: absolute;
+    right: 300px;
+    top: 25px;
+    color: gray;
+}
+
+
+.fa-user{
+    position: absolute;
+    top: 30px;
+    right: 250px;
+    color: black;
+}
+#fa-heart{
+    position: absolute;
+    top: 30px;
+    right: 210px;
+    color: black;
+}
+.fa-bag-shopping{
+    position: absolute;
+    top: 30px;
+    right: 170px;
+    color: black;  
+}
